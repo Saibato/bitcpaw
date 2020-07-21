@@ -1,4 +1,4 @@
-Bitpaw:  Bticoin Peer Address Wrapper
+Bitpaw:  Bitcoin Peer Address Wrapper
 
 We soon will have hashed bassed long PQC address formats, that would spam the
 wire and would leave old stable nodes behind.
